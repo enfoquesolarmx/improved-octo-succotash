@@ -1,2 +1,2 @@
-# improved-octo-succotash
-inversor onda pura
+# LAZARO 1
+SINEWAVE INVERTER, Inversor De Onda Sinusoidal Pura 127V/240VAC 48/60VDC
